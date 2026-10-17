@@ -1,1 +1,1 @@
-this is a frontend and backend project
+a frontend and backend project
